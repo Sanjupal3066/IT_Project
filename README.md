@@ -3,7 +3,7 @@ Name: Sanju
 
 Registration Number: 19MCMC03
 
-House Rental System is a webpage where house owners, customers can exchange information effectively and inexpensively.
+House Rental System is a Project where house owners, customers can exchange information effectively and inexpensively.
 In this project, the User can check the houses which are vacant and schedule a visit with the house owner.
 Admin has all the functionality which user have but also have a privelged access to delete any House Details.
 
