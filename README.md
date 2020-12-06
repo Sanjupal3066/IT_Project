@@ -11,8 +11,8 @@ Admin has all the functionality which user have but also have a privelged access
 1. Download the zip file.
 2. Extract the zip file and Copy the **houseRental** folder to (for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
 3. Open phpMyAdmin (http://localhost/phpmyadmin)
-4. Create DataBase named **houserentaldb** and import the SQL File (SQL/houserental.sql)
-5. For running the Project visit http://localhost/houseRental in your browser.
+4. Create DataBase named **houserentaldb** and import the SQL File (**SQL/houserental.sql**)
+5. For running the Project visit http://localhost/houseRental/login.php in your browser.
 
 ## Login Details:
 ### Admin:
