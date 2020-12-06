@@ -1,0 +1,101 @@
+body {
+	background : url("../Backgrounds/newLogin.jpg");
+	height: 90%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+form {
+    display: inline-block;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+    font-family: "museo-sans";
+    text-transform: uppercase;
+    letter-spacing: -2px;
+	margin: 20px 0 0 0;
+	text-align: center;
+}
+h3 {
+    color: #ffffff;
+    font-size: 40px;
+    font-family: "museo-sans", Arial, Verdana;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+	margin: 35px 0 0 0;
+}
+
+label {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+}
+ 
+#divTop {
+	width : 100%;
+	height: 17%;
+	border : #cbcbcb solid 1px;
+	background-color : rgba(211,211,211,0.5);
+}
+
+#divLogin{
+	width: 40%;
+   	padding: 20px;
+   	margin: 15px auto;
+   	border: 2px solid #cbcbcb;
+	background-color: rgba(0,0,50,0.3);
+	text-align: center;
+}
+
+#divRegister{
+	width: 32%;
+   	padding: 20px;
+   	margin: 15px auto;
+   	border: 2px solid #cbcbcb;
+	background-color: rgba(0,0,50,0.3);
+	text-align: center;
+}
+
+#divForgot{
+	width: 40%;
+   	padding: 20px;
+   	margin: 15px auto;
+   	border: 2px solid #cbcbcb;
+	background-color: rgba(0,0,50,0.3);
+	text-align: center;
+}
+
+input {
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	font-size: 20px;
+	background-color: white;
+	background-position: 10px 10px; 
+	background-repeat: no-repeat;
+}
+
+a {
+    font-family: "museo-sans", Arial, Verdana;
+    letter-spacing: 1px;
+	font-size: 20px;
+}
+
+a:link {
+	color: white;
+	border-bottom: solid 1px;
+}
+
+a:visited {
+	color: white;
+	border-bottom: solid 1px;
+}
+
+a:hover {
+	color: red;
+	border-bottom: solid 1px;
+}
