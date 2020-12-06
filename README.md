@@ -42,3 +42,5 @@ Admin has all the functionality which user have but also have a privelged access
 ![Admin](https://raw.githubusercontent.com/Sanjupal3066/IT_Project/main/admin.PNG)
 
 ![User](https://raw.githubusercontent.com/Sanjupal3066/IT_Project/main/user.PNG)
+
+![Alert](https://raw.githubusercontent.com/Sanjupal3066/IT_Project/main/Alert.PNG)
