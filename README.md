@@ -13,7 +13,8 @@ Admin has all the functionality which user have but also have a privelged access
 3. Open phpMyAdmin (http://localhost/phpmyadmin)
 4. Create DataBase named **houserentaldb** and import the SQL File (**SQL/houserental.sql**)
 5. For running the Project visit http://localhost/houseRental in your browser.
-I Used .htaccess where i update the DirectoyIndex
+
+(I Used .htaccess where i update the DirectoyIndex)
 
 ## Login Details:
 ### Admin:
